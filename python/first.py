@@ -7,7 +7,6 @@ b = input("Enter Last Name: ")
 print(a+" "+b)
 
 
-
 '''
 #Output:
 Hello World
